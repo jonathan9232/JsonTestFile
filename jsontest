@@ -1,18 +1,15 @@
 {
-  "id": 0,
-  "name": "Joe Rightman",
-  "address": [
+  "users": [
     {
-      "street": "100 East Main Street",
-      "City": "Southernville",
-      "State": "NY",
-      "Zip": "19910"
+      "userId": 0,
+      "firstname": "jonathan",
+      "Surname": "Bardwell",
+      "email": "gamedevxr@gmail.com"
     },
-    {
-      "street": "110 East Main Street",
-      "City": "Southernville",
-      "State": "NY",
-      "Zip": "19910"
     }
+      "userId": 1,
+      "firstname": "jake",
+      "Surname": "Bardwell",
+      "email": "test@gmail.com"
   ]
 }
