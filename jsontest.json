@@ -1,16 +1,16 @@
 {
-  "Participants: 0"
-  "users": [
+  "UserInfo": [
     {
-      "userId": 0,
+      "userId": "0",
       "firstname": "jonathan",
       "Surname": "Bardwell",
       "email": "gamedevxr@gmail.com"
     },
     {
-      "userId": 1,
+      "userId": "1",
       "firstname": "jake",
       "Surname": "Bardwell",
       "email": "test@gmail.com"
     }
   ]
+}
