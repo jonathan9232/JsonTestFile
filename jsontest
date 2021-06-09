@@ -1,0 +1,18 @@
+{
+  "id": 0,
+  "name": "Joe Rightman",
+  "address": [
+    {
+      "street": "100 East Main Street",
+      "City": "Southernville",
+      "State": "NY",
+      "Zip": "19910"
+    },
+    {
+      "street": "110 East Main Street",
+      "City": "Southernville",
+      "State": "NY",
+      "Zip": "19910"
+    }
+  ]
+}
