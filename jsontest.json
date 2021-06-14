@@ -6,10 +6,12 @@
       "Surname": "Bardwell",
       "email": "gamedevxr@gmail.com"
       "colour": [
+      {
       "R": "245",
       "G": "87",
       "B": "54",
-      ]
+    }
+  ]
     },
     {
       "userId": "1",
