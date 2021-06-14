@@ -4,13 +4,15 @@
       "userId": "0",
       "firstname": "jonathan",
       "Surname": "Bardwell",
-      "email": "Test01@gmail.com"
+      "email": "Test01@gmail.com",
+      "Player": "Character_01"
     },
     {
       "userId": "1",
       "firstname": "Terry",
       "Surname": "Smith",
-      "email": "test13@gmail.com"
+      "email": "test13@gmail.com",
+      "Player": "Character_01"
     }
   ]
 }
